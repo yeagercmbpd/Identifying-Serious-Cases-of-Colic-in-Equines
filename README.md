@@ -1,5 +1,5 @@
 <p align="center">
-   <img src=https://github.com/yeagercmbpd/DATA602_HW1_AutoPrices/blob/master/Images/Project 1 Banner.png />
+   <img src=https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/blob/master/Images/Project 1 Banner.png />
 <div align="center">
    <figcaption></figcaption>
 </div>
