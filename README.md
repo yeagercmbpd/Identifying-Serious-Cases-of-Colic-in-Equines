@@ -5,10 +5,10 @@
 </div>
 </p>
 
-**Identifying Serious Cases of Colic in Equines**
+Identifying Serious Cases of Colic in Equines
 ---
 Logistic Regression classifier for identifying cases of colic in horses which may result in required surgery or death, based on animal evaluation by a veterinarian.
---
+---
 ### Overview and Project Goals
 
 Colic is a broad term used to describe gastrointestinal distress in horses. It often has a sudden onset and can be caused by a myriad of reasons. It is not always easily identified and the seriousness of the problem can often escalate quickly and lead to necessary surgical intervention and often times death of the animal. The American Horse Council advises that colic causes the death of approximately 64,000 horses in the United States annually. An otherwise healthy horse can begin to show signs and symptoms which can, in a matter of hours, escalate severely. Yeager Biomedical Solutions has created a Logistic Regression Classifier model to assist equine facility staff, as well as veterinarians in identifying cases in which horses are at high risk of death, as well as cases in which surgical intervention may be an optimal solution. The model takes into account medical evaluation data from the subject and produces an output whereby death or surgery are the likely outcomes. 
