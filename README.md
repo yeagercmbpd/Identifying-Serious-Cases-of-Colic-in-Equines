@@ -24,9 +24,9 @@ Technical Notebook: <a href=https://github.com/yeagercmbpd/DATA602_HW1_AutoPrice
 ---
 ### ReadME Navigation
 
-[Data](https://github.com/yeagercmbpd/DATA602_HW1_AutoPrices/tree/master/Data) -
-[Results](https://github.com/yeagercmbpd/DATA602_HW1_AutoPrices#Summary) - 
-[Project Info](https://github.com/yeagercmbpd/DATA602_HW1_AutoPrices#PackagesandCredits) -
+[Data](https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/tree/main/Data) -
+[Results](https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines#Summary) - 
+[Project Info](https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines#PackagesandCredits) -
 
 ---
 
