@@ -21,7 +21,7 @@ Model Building:
 <a href=https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/blob/main/Notebooks/Logistic%20Classifier%20for%20Death%20Outcome.ipynb>Building the Death Outcome Model Notebook</a>
 <a href=https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/blob/main/Notebooks/Logistic%20Classifier%20for%20SurgicalOutcome.ipynb>Building the Surgery Outcome Model Notebook</a>
 Visualizations: <a href=https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/blob/main/Notebooks/ExploratoryVisualizations.ipynb>Visualizations Notebook</a>
-Technical Notebook: <a href=https://github.com/yeagercmbpd/DATA602_HW1_AutoPrices/blob/master/Technical%20Notebook.ipynb>Technical Notebook</a>
+Technical Notebook: <a href=https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/blob/main/Technical%20Notebook-Final.ipynb>Technical Notebook</a>
 </pre>
 ---
 ### ReadME Navigation
@@ -50,9 +50,19 @@ The main limitation of this dataset, alluded to above, is the relatively small s
 
 ## Summary
 
-Explained variance: 65%
+Model 1 Predicting Death Outcome
+   Test Accuracy: .79
+   10-fold Cross Validation: .74
+   Features Used:Pulse,Respiratory rate,Pain level,Packed cell vol,Type of lesion
+   Holdout Accuracy: .84
+   
+Model 2 Predicting Required Surgery
+   Test Accuracy: 1
+   10-fold Cross Validation: 1
+   Features Used: surgery,pulse,temperature of extremities,peripheral pulse,mucous membranes,capillary refill time,pain level,peristalsis,abdominal distension,packed cell volume,type of lesion,location of lesion
+   Holdout Accuracy: .52
 
-Throughout the analysis it became clear that the simple variables of vehicle age and milage are always going to be the safest way to get a return on investment. They were correlated the most strongly and consistently, regardless of other factors at play. Additionally, however, an R2 result of greater than 50% could not be achieved without the additional information provided by the manufacturer, engine cylinders, vehicle type, and transmission features. Unfortunately, condition and model returned as not playing a statistically signifigant role in model output. We theorize this is due to the bias of the seller as to condition and inconsistency in model accuracy input in the dataset.
+The goal in creating our models was to give veterinarians and equine care staff an additional tool in gauging the severity of suspected colic in horses under their care. A reasonable level of accuracy has been achieved, given our limited data set, in attaining that goal. A rapid evaluation of the sick animal can be entered into our models to determine the severity of the illness and validate the decision to aggressively treat, and hopefully save the patient. The tough decision to commit to surgery and reduce the percentage of horses which perish from a lack of this intervention is our hope. With adoption of this model and an increase in observations, its strength in making accurate predictions can only increase.
 
 ---
 
@@ -64,5 +74,5 @@ By : <a href=https://github.com/yeagercmbpd>Christopher Yeager</a>
 <pre>
 Languages    : Python
 Tools/IDE    : Jupyter
-Libraries    : pandas, numpy, matplotlib, statsmodels, sklearn, seaborn
+Libraries    : pandas, numpy, matplotlib, sklearn, seaborn
 </pre>
