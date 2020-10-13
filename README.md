@@ -47,7 +47,7 @@ Our target variables in the creation of this model will be outcome, whether the 
    
    10-fold Cross Validation: .74
    
-   Features Used:Pulse,Respiratory rate,Pain level,Packed cell vol,Type of lesion
+   Features Used (Lasso):Pulse,Respiratory rate,Pain level,Packed cell vol,Type of lesion
    
    Holdout Accuracy: .84
    
@@ -57,7 +57,7 @@ Our target variables in the creation of this model will be outcome, whether the 
    
    10-fold Cross Validation: 1
    
-   Features Used: surgery,pulse,temperature of extremities,peripheral pulse,mucous membranes,capillary refill time,pain level,peristalsis,abdominal distension,packed cell volume,type of lesion,location of lesion
+   Features Used (Lassso): surgery,pulse,temperature of extremities,peripheral pulse,mucous membranes,capillary refill time,pain level,peristalsis,abdominal distension,packed cell volume,type of lesion,location of lesion
    
    Holdout Accuracy: .52
    
