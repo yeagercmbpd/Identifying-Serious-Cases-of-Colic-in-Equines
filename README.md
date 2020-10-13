@@ -19,6 +19,7 @@ Colic is a broad term used to describe gastrointestinal distress in horses. It o
 Technical Notebook: <a href=https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/blob/main/Technical%20Notebook-Final.ipynb>Technical Notebook/Report</a>
 Presentation: <a href=https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/blob/main/Presentation.pdf>Presentation Slides</a>
 Data Cleanup  : <a href=https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/blob/main/Notebooks/Project%201%20Data%20Preparation.ipynb>Data Preprocessing Notebook </a>
+Raw Data: <a href=https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/tree/main/Data>Raw Data</a>
 Visualizations: <a href=https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/blob/main/Notebooks/ExploratoryVisualizations.ipynb>Visualizations Notebook</a>
 Model Building: 
 <a href=https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/blob/main/Notebooks/Logistic%20Classifier%20for%20Death%20Outcome.ipynb>Building the Death Outcome Model Notebook</a>
