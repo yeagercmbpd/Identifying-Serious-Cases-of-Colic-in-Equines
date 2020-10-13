@@ -43,7 +43,7 @@ Our target variables in the creation of this model will be outcome, whether the 
 
 Model 1 Predicting Death Outcome
 
-   Test Accuracy: .79
+   Test Accuracy: .79 /n
    10-fold Cross Validation: .74
    Features Used:Pulse,Respiratory rate,Pain level,Packed cell vol,Type of lesion
    Holdout Accuracy: .84
