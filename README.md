@@ -21,7 +21,9 @@ Model Building:
 <a href=https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/blob/main/Notebooks/Logistic%20Classifier%20for%20Death%20Outcome.ipynb>Building the Death Outcome Model Notebook</a>
 <a href=https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/blob/main/Notebooks/Logistic%20Classifier%20for%20SurgicalOutcome.ipynb>Building the Surgery Outcome Model Notebook</a>
 Visualizations: <a href=https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/blob/main/Notebooks/ExploratoryVisualizations.ipynb>Visualizations Notebook</a>
-Technical Notebook: <a href=https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/blob/main/Technical%20Notebook-Final.ipynb>Technical Notebook</a>
+Technical Notebook: <a href=https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/blob/main/Technical%20Notebook-Final.ipynb>Technical Notebook/Report</a>
+</pre>
+Presentation: <a href=https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/blob/main/Presentation.pdf>Presentation Slides</a>
 </pre>
 ---
 
