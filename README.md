@@ -42,12 +42,14 @@ Our target variables in the creation of this model will be outcome, whether the 
 ## Summary
 
 Model 1 Predicting Death Outcome
+
    Test Accuracy: .79
    10-fold Cross Validation: .74
    Features Used:Pulse,Respiratory rate,Pain level,Packed cell vol,Type of lesion
    Holdout Accuracy: .84
    
 Model 2 Predicting Required Surgery
+
    Test Accuracy: 1
    10-fold Cross Validation: 1
    Features Used: surgery,pulse,temperature of extremities,peripheral pulse,mucous membranes,capillary refill time,pain level,peristalsis,abdominal distension,packed cell volume,type of lesion,location of lesion
