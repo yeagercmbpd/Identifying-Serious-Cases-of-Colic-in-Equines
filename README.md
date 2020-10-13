@@ -61,8 +61,9 @@ Our target variables in the creation of this model will be outcome, whether the 
    
    Holdout Accuracy: .52
    
----
+note, a third death model was created with an even target split count dataset. No major difference was noted.
 
+---
 ## PackagesandCredits
 <pre>
 By : <a href=https://github.com/yeagercmbpd>Christopher Yeager</a>
